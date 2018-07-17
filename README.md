@@ -22,3 +22,12 @@ https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 - Can the `/twitter` endpoint return an array of all the users follows with their friends count?
 - To make it easy, can you use GET params for the username for the above request?
 (hint: http://stackabuse.com/get-query-strings-and-parameters-in-express-js/)
+
+
+# Git and github
+- What is a pull request in github?
+- How do you make a branch in git?
+
+(Hint : https://yangsu.github.io/pull-request-tutorial/ )
+
+Can you make a pull request for the next time that I do a code review?
